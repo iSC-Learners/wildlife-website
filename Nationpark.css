@@ -1,99 +1,106 @@
+<<<<<<< HEAD
+=======
+body {
+    margin: 0rem;
+}
+>>>>>>> origin/Nationapark
 
 .wote {
     flex-direction: column;
     justify-content: space-between;
-    flex: 1px;
+    flex: 0.0625rem;
 }
 
 .nje {
     background-color: #eaeded;
-    border-radius: 12px;
-    max-width: 750px;
-    height: 213px;
-    padding-left: 12px;
-    padding-top: 12px;
-    margin: 12px 12px;
+    border-radius: 0.75rem;
+    max-width: 46.875rem;
+    height: 13.3125rem;
+    padding-left: 0.75rem;
+    padding-top: 0.75rem;
+    margin: 0.75rem 0.75rem;
 }
 
 .kwanza {
     display: flex;
-    flex: 1px;
+    flex: 0.0625rem;
     background-color: #ffffff;
-    max-width: 684px;
-    max-height: 203px;
-    padding-left: 5px;
-    padding-top: 5px;
+    max-width: 42.75rem;
+    max-height: 12.6875rem;
+    padding-left: 0.3125rem;
+    padding-top: 0.3125rem;
 }
 
 .tembo img {
-    width: 290px;
-    height: 188px;
-    padding-right: 19px;
+    width: 18.125rem;
+    height: 11.75rem;
+    padding-right: 1.1875rem;
 }
 
 .sere>h5 {
-    margin-top: 15px;
-    margin-bottom: 2px;
+    margin-top: 0.9375rem;
+    margin-bottom: 0.125rem;
 }
 
 .sere p {
     font-family: cursive;
-    font-size: 12px;
-    opacity: 0.9px;
-    margin-top: 0px;
+    font-size: 0.75rem;
+    opacity: 0.9;
+    margin-top: 0rem;
 }
 
 .pili {
     display: flex;
     background-color: #ffffff;
-    max-width: 684px;
-    max-height: 203px;
-    padding-left: 5px;
-    padding-top: 5px;
-    flex: 2px;
+    max-width: 42.75rem;
+    max-height: 12.6875rem;
+    padding-left: 0.3125rem;
+    padding-top: 0.3125;
+    flex: 0.125rem;
 }
 
 .pili img {
-    width: 290px;
-    height: 188px;
-    padding-right: 19px;
+    width: 18.125rem;
+    height: 11.75rem;
+    padding-right: 1.1875rem;
 }
 
 .ngoro h5 {
-    margin-bottom: 0px;
-    margin-top: 15px;
+    margin-top: 0.9375rem;
+    margin-bottom: 0.125rem;
 }
 
 .ngoro p {
     font-family: cursive;
-    font-size: 12px;
-    opacity: 0.9px;
-    margin-top: 0px;
+    font-size: 0.75rem;
+    opacity: 0.9;
+    margin-top: 0rem;
 }
 
 .tatu {
     display: flex;
     background-color: #ffffff;
-    max-width: 684px;
-    max-height: 203px;
-    padding-left: 5px;
-    padding-top: 5px;
+    max-width: 42.75rem;
+    max-height: 12.6875rem;
+    padding-left: 0.3125rem;
+    padding-top: 0.3125;
+    flex: 0.125rem;
 }
 
 .tatu img {
-    width: 290px;
-    height: 188px;
-    padding-right: 19px;
+    width: 18.125rem;
+    height: 11.75rem;
+    padding-right: 1.1875rem;
 }
 
 .manya>h5 {
-    margin-bottom: 0;
-    margin-top: 15px;
+    margin-top: 0.9375rem;
+    margin-bottom: 0.125rem;
 }
 
 .manya p {
     font-family: cursive;
-    font-size: 12px;
-    opacity: 0.9px;
-    margin-top: 0;
+    font-size: 0.75rem;
+    opacity: 0.9;
+    margin-top: 0rem;
 }
