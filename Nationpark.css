@@ -5,6 +5,11 @@ body {
 }
 >>>>>>> origin/Nationapark
 
+.jumla {
+    display: flex;
+    justify-content: space-between;
+}
+
 .wote {
     flex-direction: column;
     justify-content: space-between;
@@ -42,7 +47,7 @@ body {
     margin-bottom: 0.125rem;
 }
 
-.sere p {
+#para {
     font-family: cursive;
     font-size: 0.75rem;
     opacity: 0.9;
@@ -103,4 +108,58 @@ body {
     font-size: 0.75rem;
     opacity: 0.9;
     margin-top: 0rem;
+}
+
+.main {
+    padding-top: 12px;
+    display: flex;
+    flex-direction: column;
+    padding-right: 12px;
+}
+
+h1 {
+    background-color: gray;
+    max-width: 300px;
+    max-height: 250px;
+    padding-left: 0px;
+    padding-top: 0px;
+    margin: 0;
+}
+
+h2 {
+    margin: 0;
+    padding: 0;
+    color: orange;
+}
+
+.out {
+    background-color: #eaeded;
+    width: 290px;
+    height: 500px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.moja,
+.moja1,
+.moja2,
+.moja3 {
+    background-color: #ffffff;
+    width: 260px;
+    border-radius: 12px;
+}
+
+.sere>h2 {
+    margin-top: 1px;
+    margin-bottom: 2px;
+}
+
+.sere p,
+.sere1 p1,
+.sere2 p2,
+.sere3 p3 {
+    font-family: cursive;
+    font-size: 20px;
+    opacity: 0.9px;
+    margin-top: 0px;
 }
